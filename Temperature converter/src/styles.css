@@ -62,7 +62,7 @@ button:hover {
     color: #333;
 }
 
-/* Responsive styles */
+/* Responsive style */
 @media (max-width: 600px) {
     .container {
         padding: 20px;
