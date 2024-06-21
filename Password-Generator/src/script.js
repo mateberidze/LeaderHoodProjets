@@ -42,7 +42,14 @@ function copyToClipboard(element) {
   
   tempInput.select();
 
-  
+  tempInput.scroll();
+
+
+ 
+ 
+
+
+ 
   document.execCommand("copy");
 
 
