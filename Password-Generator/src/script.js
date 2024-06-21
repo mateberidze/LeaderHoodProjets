@@ -33,7 +33,7 @@ function copyToClipboard(element) {
   
   var tempInput = document.createElement("input");
 
-
+  
   tempInput.value = element.innerHTML;
 
   
